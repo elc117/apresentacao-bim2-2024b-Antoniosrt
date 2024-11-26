@@ -1,5 +1,8 @@
+# Pesquisar, criar e executar outros exemplos com Thread / Runnable em Java
 
-# **Como a classe `Thread` pode violar o Princípio de Substituição de Liskov (LSP)**
+
+
+## **Como a classe `Thread` pode violar o Princípio de Substituição de Liskov (LSP)**
 
 O **Princípio de Substituição de Liskov (LSP)**, parte dos princípios **SOLID**, afirma que **uma classe derivada deve ser substituível por sua classe base sem alterar o comportamento esperado do programa**. 
 
